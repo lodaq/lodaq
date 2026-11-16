@@ -32,9 +32,8 @@ I like turning everyday friction into something useful, then improving it as I g
 
 ### GitHub stats
 
-[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodaq&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4)](https://github.com/lodaq?tab=repositories)
-
-[![Most used languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=lodaq&layout=compact&langs_count=8&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4)](https://github.com/lodaq?tab=repositories)
+[![Khalid's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lodaq&theme=github_dark)](https://github.com/lodaq?tab=repositories)
+[![Most used languages by public repository count](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lodaq&theme=github_dark)](https://github.com/lodaq?tab=repositories)
 
 ---
 
